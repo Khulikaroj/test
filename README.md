@@ -9,7 +9,7 @@
 ---
 
 ### Directory
-![markdown-image](sunnyday.jpeg)
+![markdown-image](sunnyday.jpg)
 [code](code)
 [data](data)
 [references](references)
